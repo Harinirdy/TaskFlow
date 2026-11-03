@@ -1,6 +1,9 @@
 # TaskFlow – Smart Task Management System
 
 TaskFlow is a task management web application built using React and TypeScript. It helps users organize daily tasks, track progress, manage priorities, and maintain productivity through a simple and interactive dashboard.
+## Application Screenshot
+
+![TaskFlow Dashboard](./taskflow-dashboard.png)
 
 ## Features
 
@@ -34,7 +37,7 @@ TaskFlow is a task management web application built using React and TypeScript. 
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/Harinirdy/TaskFlow.git
    ```
 
 2. Navigate to the project folder:
